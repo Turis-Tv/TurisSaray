@@ -1,0 +1,1032 @@
+Uri: http://geoloc15.whoaremyfriends.net/private/geocounter.php?compte=993266892985&base=geoloc15
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\private\geocounter.php
+Content Type: image/jpeg
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\ajax\libs\jquery\1.4.3\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/bayrak.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\bayrak.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/favicon.ico
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://saraydorf.de/js/disable-devtool.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\js\disable-devtool.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/bugun-mac.html
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\bugun-mac.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/haberler.html
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\haberler.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/img/logo/aspor.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\aspor.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/atv.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\atv.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/beinsports1.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\beinsports1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/beinsports2.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\beinsports2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/beinsports3.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\beinsports3.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/beinsports4.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\beinsports4.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/beinsports5.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\beinsports5.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/beinsportshaber.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\beinsportshaber.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/beinsportsmax1.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\beinsportsmax1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/beinsportsmax2.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\beinsportsmax2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/cbcsport.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\cbcsport.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/eurosport1.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\eurosport1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/eurosport2.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\eurosport2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/exxen.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\exxen.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/htspor.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\htspor.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/nba.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\nba.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/sporsmart.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\sporsmart.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/sporsmart2.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\sporsmart2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/s_sport.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\s_sport.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/s_sport2.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\s_sport2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/tivibuspor.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\tivibuspor.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/tivibuspor2.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\tivibuspor2.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/tivibuspor3.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\tivibuspor3.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/tivibuspor4.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\tivibuspor4.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/trt1.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\trt1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/trtspor-yildiz.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\trtspor-yildiz.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/trtspor.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\trtspor.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/tv8.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\tv8.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/img/logo/tv85.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\img\logo\tv85.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/index.html
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\index.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/net/cdn/appvip26.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\net\cdn\appvip26.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/net/cdn/video.min.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\net\cdn\video.min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/net/css/app3.css
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\net\css\app3.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/spor/net/css/video-js.css
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\net\css\video-js.css
+Content Type: text/css
+
+Uri: https://saraydorf.de/spor/net/img/all_tv1.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\net\img\all_tv1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/net/img/basketball_tv1.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\net\img\basketball_tv1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/net/img/football_tv1.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\net\img\football_tv1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/net/img/tennis_tv1.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\net\img\tennis_tv1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/net/img/tv_tv1.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\net\img\tv_tv1.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcukaspor
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-16.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcukbeinsports1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcukbeinsports2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcukbeinsports3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcukbeinsports4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcukbeinsportsmax1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcukbeinsportsmax2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcuksmartspor
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-8.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcuksmartspor2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-9.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcukssport
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcukssport2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-7.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcuktivibuspor1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-10.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcuktivibuspor2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-11.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcuktivibuspor3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-12.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcuktivibuspor4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-13.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcuktrt1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-14.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b1.htm?id=selcuktrtspor
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b1-15.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b2.htm?id=5062
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b2.htm?id=5063
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b2-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/b2.htm?id=5066
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\b2-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/js/b1.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\js\b1.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/b2.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\js\b2.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/debug.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/pal.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\js\pal.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/player.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\js\player.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/spor.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\js\spor.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/taraf.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\js\taraf.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/tr.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\js\tr.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/tr2.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\js\tr2.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/tr3.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\js\tr3.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/trgol.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\js\trgol.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/js/vole.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\js\vole.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinas
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-17.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinatv
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-20.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinb2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinb3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinb4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinb5
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinbm1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinbm2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayineu1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-21.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayineu2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-22.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinex1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-24.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinex2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-25.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinex3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-26.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinex4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-27.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinex5
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-28.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinex6
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-29.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinnbatv
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-23.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinsmarts
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-9.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinsms2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-10.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinss
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-7.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinss2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-8.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayinstar
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayint1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-11.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayint2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-12.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayint3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-13.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayint4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-14.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayintrt1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-15.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayintrtspor
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-16.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayintv8
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-18.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/pal.htm?id=yayintv85
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\pal-19.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/spor.htm?id=11d43931fe8741b286897fd8488a1a2b
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\spor-6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/spor.htm?id=29c60f23ea4840ba8726925a77fcfd0b
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\spor-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/spor.htm?id=446cfea025a440c492201835dd88f74a
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\spor-5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/spor.htm?id=540fcb034b144b848e7ff887f61a293a
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\spor.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/spor.htm?id=764299a9db4b429aa9250edc9e791156
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\spor-7.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/spor.htm?id=88affc2b8d9845d9adb0f4a22db27653
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\spor-4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/spor.htm?id=8fe5dabcdbcd4af0ace7b991a12a6a4c
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\spor-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/spor.htm?id=ccee7091e86040d18e14cd0efef2a51b
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\spor-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=a-spor
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-19.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=bein-sports-1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=bein-sports-2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=bein-sports-3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=bein-sports-4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=bein-sports-5
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=bein-sports-max-1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=bein-sports-max-2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=s-sport
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-7.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=s-sport-2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-8.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=spor-smart
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-9.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=spor-smart-2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-10.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=tivibu-spor
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-11.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=tivibu-spor-1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-12.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=tivibu-spor-2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-13.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=tivibu-spor-3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-14.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=tivibu-spor-4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-15.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=trt-1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-16.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=trt-spor
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-17.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=trt-spor-yildiz
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-18.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=tv-8-bucuk
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-21.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/taraf.htm?id=tv8
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\taraf-20.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=atv
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-16.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=b1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=b1max
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=b2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=b2max
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=b3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=b4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=b5
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=eu1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-17.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=sporsmart
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-9.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=sporsmart2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-10.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=ssport
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-7.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=ssport2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-8.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=tivi1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-11.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=tivi2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-12.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=tivi3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-13.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=trt1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-14.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr.htm?id=trtspor
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr-15.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr2.htm?id=bein-sports-1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr2.htm?id=bein-sports-2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr2-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr2.htm?id=bein-sports-3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr2-4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr2.htm?id=bein-sports-4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr2-7.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr2.htm?id=selcukbeinsports1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr2-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr2.htm?id=selcukbeinsports2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr2-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr2.htm?id=selcukbeinsports3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr2-5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr2.htm?id=selcukbeinsports4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr2-6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr2.htm?id=selcukbeinsports5
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr2-8.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr2.htm?id=selcukbeinsportsmax1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr2-9.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr2.htm?id=selcukbeinsportsmax2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr2-10.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr3.htm?id=432280
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr3-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr3.htm?id=bein-sports-2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr3-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr3.htm?id=bein-sports-3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr3-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/tr3.htm?id=selcukbeinsports1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\tr3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=trtspor
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-15.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinas
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-16.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinatv
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-19.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinb2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinb3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinb4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinb5
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinbm1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinbm2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayineu1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-20.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayineu2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-21.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinex1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-23.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinex2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-24.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinex3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-25.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinex4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-26.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinex5
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-27.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinex6
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-28.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinnbatv
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-22.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinsmarts
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-9.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinsms2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-10.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinss
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-7.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinss2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-8.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayint1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-11.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayint3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-12.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayint4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-13.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayintrt1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-14.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayintv8
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-17.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayintv85
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol-18.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/trgol.htm?id=yayinzirve
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\trgol.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayin1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinas
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-17.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinatv
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-20.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinb2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinb3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinb4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinb5
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-4.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinbm1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-5.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinbm2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-6.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayineu1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-21.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayineu2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-22.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinex1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-24.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinex2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-25.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinex3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-26.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinex4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-27.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinex5
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-28.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinex6
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-29.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinnbatv
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-23.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinsmarts
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-9.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinsms2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-10.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinss
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-7.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayinss2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-8.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayint1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-11.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayint2
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-12.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayint3
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-13.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayint4
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-14.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayintrt1
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-15.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayintrtspor
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-16.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayintv8
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-18.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/play/vole.htm?id=yayintv85
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\play\vole-19.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/player/convertplayer/?s=aHR0cHM6Ly95YXlpbjIuY2FubGl0di5mdW4vbGl2ZXR2L2JlaW5zcG9ydGhhYmVyLnN0cmVhbS9tYXN0ZXIubTN1OA==
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\player\convertplayer\index-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/player/convertplayer/?s=aHR0cHM6Ly95YXlpbjIuY2FubGl0di5mdW4vbGl2ZXR2L2NiY3Nwb3J0LnN0cmVhbS9tYXN0ZXIubTN1OA==
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\player\convertplayer\index-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/player/convertplayer/?s=aHR0cHM6Ly9jaW5lci1saXZlLmRhaW9uY2RuLm5ldC9odC1zcG9yL2h0LXNwb3IubTN1OA==
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\player\convertplayer\index.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/player/convertplayer/js/jwplayer.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\player\convertplayer\js\jwplayer.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/player/webplayer/?s=https://gitlatte-a.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Mi9tb25vLm0zdTg=.m3u8
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\player\webplayer\index.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/player/webplayer/?s=https://gitlatte-a.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02My9tb25vLm0zdTg=.m3u8
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\player\webplayer\index-1.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/player/webplayer/?s=https://gitlatte-a.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02NC9tb25vLm0zdTg=.m3u8
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\player\webplayer\index-2.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/player/webplayer/?s=https://gitlatte-a.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Ny9tb25vLm0zdTg=.m3u8
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\player\webplayer\index-3.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/player/webplayer/js/debug.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\player\webplayer\js\debug.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/player/webplayer/js/hls.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\player\webplayer\js\hls.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/player/webplayer/js/mousetrap.min.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\player\webplayer\js\mousetrap.min.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/player/webplayer/js/player.js
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\player\webplayer\js\player.js
+Content Type: text/javascript
+
+Uri: https://saraydorf.de/spor/spor/2ligkirmizi.jpg
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\2ligkirmizi.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/3lig1gurub.jpg
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\3lig1gurub.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/3lig2gurub.jpg
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\3lig2gurub.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/3lig3gurub.jpg
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\3lig3gurub.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/canli.png
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\canli.png
+Content Type: image/png
+
+Uri: https://saraydorf.de/spor/spor/desk.htm
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\desk.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/spor/flash-bugun.jpg
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\flash-bugun.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/ptt1lig.jpg
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\ptt1lig.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/puantablosu.htm
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\puantablosu.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/spor/skor.jpg
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\skor.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/spor-haber.jpg
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\spor-haber.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/sporhaber.htm
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\sporhaber.htm
+Content Type: text/html
+
+Uri: https://saraydorf.de/spor/spor/superlig.jpg
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\superlig.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/spor/vlc-bugun.jpg
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\spor\vlc-bugun.jpg
+Content Type: image/jpeg
+
+Uri: https://saraydorf.de/spor/sportv-flash.html
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\spor\sportv-flash.html
+Content Type: text/html
+
+Uri: https://saraydorf.de/style.css
+File Name: C:\Users\M.T\Pictures\Site-Kopya\Nieuwe map (62)\saraydorf.de\style.css
+Content Type: text/css
+
